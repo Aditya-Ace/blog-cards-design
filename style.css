@@ -97,6 +97,7 @@ body {
 
 @media (max-width: 940px) {
   .container {
+    margin-top: 3em;
     grid-template-columns: 1fr;
     justify-items: center;
   }
